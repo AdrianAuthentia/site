@@ -2347,7 +2347,7 @@ a:hover {
 .risk-section {
     min-height: 100vh;
     background-color: rgba(0, 0, 0, .6);
-    background-image: url(./images/contour_bg.svg);
+    background-image: url(./contour_bg.svg);
     background-position: 0%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -2466,7 +2466,7 @@ a:hover {
 }
 
 .what-is-section {
-    background-image: url(./images/image\ bg.jpg);
+    background-image: url(./image\ bg.jpg);
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -2539,7 +2539,7 @@ a:hover {
 
 .tips-section {
     min-height: 90vh;
-    background-image: url(./images/contour_bg.svg);
+    background-image: url(./contour_bg.svg);
     background-position: 0%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -2746,7 +2746,7 @@ a:hover {
 .blog-hero {
     width: 100vw;
     height: 80vh;
-    background-image: url(./images/blog4.jpg);
+    background-image: url(./blog4.jpg);
     background-position: 50%;
     background-size: cover;
     flex-direction: column;
@@ -2858,7 +2858,7 @@ a:hover {
 .sub-hero {
     height: 40vh;
     color: #000;
-    background-image: url(./images/blog_header.jpg);
+    background-image: url(./blog_header.jpg);
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -2906,7 +2906,7 @@ a:hover {
 .sub-hero-copy {
     height: 40vh;
     color: #000;
-    background-image: url(./images/contact_header.jpg);
+    background-image: url(./contact_header.jpg);
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
